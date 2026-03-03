@@ -1,0 +1,30 @@
+# Led Zeppelin – No Quarter (Remaster)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[01:44.38] Close the door, put out the light
+[01:53.94] You know they won't be home tonight
+[02:01.06] The snow falls hard and don't you know
+[02:07.45] The winds of Thor are blowing cold
+[02:24.45] 
+[02:15.19] They're wearing steel that's bright and true
+[02:21.63] They carry news that must get through
+[02:28.97] They choose the path where no one goes
+[02:37.97] They hold no quarter, they hold no quarter
+[02:58.97] 
+[04:50.85] Walking side by side with death
+[04:57.57] The devil mocks their every step
+[05:04.70] The snow drives back the foot that's slow
+[05:11.08] The dogs of doom are howling more
+[05:27.58] 
+[05:18.04] They carry news that must get through
+[05:25.01] To build a dream for me and you
+[05:32.38] They choose the path where no one goes
+[05:46.05] They hold no quarter, they ask no quarter
+[06:06.55] 
+[06:01.12] They hold no quarter
+[06:07.21] They ask no quarter
+[06:15.16] Oh, oh, oh, oh, oh, they ask no quarter
+[06:34.51] They give no quarter
+```
