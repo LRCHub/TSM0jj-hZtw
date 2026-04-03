@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "No Quarter (Remaster)",
+  "base_artist": "Led Zeppelin",
+  "createdAt": "2026-04-03T12:04:34.738297Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Quarter - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/01_No_Quarter_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Quarter  (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/02_No_Quarter_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Quarter (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/03_No_Quarter_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Quarter - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/04_No_Quarter_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Quarter (Remaster) (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/05_No_Quarter_(Remaster)_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Quarter  (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/06_No_Quarter_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "27.No Quarter - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/07_27.No_Quarter_-_Remaster_Led_Zeppelin.lrc"
+    }
+  ]
+}
